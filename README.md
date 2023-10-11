@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on [Restiloc](https://github.com/Restiloc)
 
-- 👨‍💻 All of my projects are available at [www.vladimir-porfolio.com](www.vladimir-porfolio.com)
+- 👨‍💻 All of my projects are available at [www.vladimir-porfolio.com](https://www.vladimir-portfolio.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
