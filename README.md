@@ -14,11 +14,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [3D Portfolio](https://github.com/Vladimir9595/3D-Portfolio/tree/main)
+- 🔭 I’m currently working on [3D Portfolio](https://github.com/Vladimir9595/3D-Portfolio/tree/main) personal project
 
-- 🌱 I’m currently learning **ReactJS, TailwindCSS, Kotlin, C#**
+- 🌱 I’m currently learning **ReactJS, TailwindCSS, Kotlin, C#, C++, C, Java**
 
-- 👯 I’m looking to collaborate on [Restiloc](https://github.com/Restiloc)
+- 👯 I’m looking to collaborate on [Unity Project](https://github.com/Paco-crossing-the-roads)
 
 - 👨‍💻 All of my projects are available at [www.vladimir-porfolio.com](https://www.vladimir-portfolio.com/)
 
@@ -43,14 +43,6 @@
           height="40"
         />
       </a>
-        <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="php"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -101,7 +93,15 @@
       height="40"
     />
   </a>
-
+<h3>Backend Development</h3>
+   <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+      alt="php"
+      width="40"
+      height="40"
+    />
+  </a>
 <h3>Mobile App Development</h3>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer">
   <img
@@ -142,7 +142,7 @@
 <h3>Data Visualization</h3>
 <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
   <img
-    src="https://camo.githubusercontent.com/581d6d89859c612797de8911081701d415a933f18f2902199345c4f3735d5c9f/68747470733a2f2f63646e2e7261776769742e636f6d2f636c61726976652f636c612d7669727475616c626f782d706c7567696e2f6d61737465722f7075626c69632f69636f6e2f7669727475616c426f782e7376673f73616e6974697a653d74727565"
+    src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"
     alt="virtualbox"
     width="40"
     height="40"
@@ -160,7 +160,7 @@
 <h3>Framework</h3>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png"
     alt="laravel"
     width="40"
     height="40"
@@ -178,7 +178,7 @@
 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png"
       alt="photoshop"
       width="40"
       height="40"
@@ -224,6 +224,32 @@
 
 <h2 align="left">What I am learning</h2>
 
+<h3>Compiling languages</h3>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png"
+      alt="CSharp"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"
+      alt="CPP"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png"
+      alt="C"
+      width="40"
+      height="40"
+    />
+  </a>
+
 <h3>Frontend Development</h3>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img
@@ -237,6 +263,14 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://angular.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"
+      alt="angular"
       width="40"
       height="40"
     />
