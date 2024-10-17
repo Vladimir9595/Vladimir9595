@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vladimir</h1>
  <div align="center">
  <img
-      src="https://cdn.vladimir-portfolio.com/shared/images/vs_logo.png"
+      src="https://cdn.vladimir-portfolio.eu/shared/images/vs_logo.png"
       alt="logo"
       width="100"
       height="100"
