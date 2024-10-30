@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on [Unity Project](https://github.com/Paco-crossing-the-roads)
 
-- 👨‍💻 All of my projects are available at [www.vladimir-porfolio.com](https://www.vladimir-portfolio.com/)
+- 👨‍💻 All of my projects are available at [www.vladimir-porfolio.eu](https://www.vladimir-portfolio.eu/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
